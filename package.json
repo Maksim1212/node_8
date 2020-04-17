@@ -1,0 +1,40 @@
+{
+    "name": "node_8",
+    "version": "1.0.0",
+    "description": "node proxy server",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Maksim1212/node_8.git"
+    },
+    "author": "Maksim1212",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Maksim1212/node_8/issues"
+    },
+    "config": {
+        "commitizen": {
+            "path": "./node_modules/cz-conventional-changelog"
+        }
+    },
+    "dependencies": {
+        "chalk": "4.0.0",
+        "commitizen": "4.0.4",
+        "cz-conventional-changelog": "3.1.0",
+        "editorconfig": "0.15.3",
+        "eslint": "6.8.0",
+        "eslint-config-airbnb-base": "14.1.0",
+        "eslint-config-prettier": "6.10.0",
+        "eslint-plugin-import": "2.20.1",
+        "eslint-plugin-node": "11.0.0",
+        "eslint-plugin-prettier": "3.1.2",
+        "http": "0.0.1-security",
+        "http-proxy": "1.18.0",
+        "request": "2.88.2"
+    },
+    "homepage": "https://github.com/Maksim1212/node_8#readme"
+}
