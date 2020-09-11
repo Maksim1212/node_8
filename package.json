@@ -33,7 +33,7 @@
         "eslint-plugin-node": "11.0.0",
         "eslint-plugin-prettier": "3.1.2",
         "http": "0.0.1-security",
-        "http-proxy": "1.18.0",
+        "http-proxy": "1.18.1",
         "request": "2.88.2"
     },
     "homepage": "https://github.com/Maksim1212/node_8#readme"
